@@ -11,7 +11,7 @@
   "keywords": [
     "api"
   ],
-  "author": "islam/haithem",
+  "author": "",
   "license": "ISC",
   "dependencies": {
     "bcrypt": "^5.1.0",
